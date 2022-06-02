@@ -17,6 +17,7 @@ node index.js
 ### Demo Video 
 [[Watch Demo Video Here](https://drive.google.com/file/d/1IZt8qPR8dIyHacoUuBui54V2Yx4lBuE2/preview)]
 
+
 ### Live Website
 [[Click Here To See Website](https://andersonjaz.github.io/Team-Profile-Gen/)]
 
@@ -33,3 +34,6 @@ node index.js
 
 * [x] [Inquirer Package](https://www.npmjs.com/package/inquirer)
 * [x] [Jest Documentation](https://jestjs.io/docs/getting-started)
+
+### Index Html Preview 
+![Screenshot-Team-Profile](https://user-images.githubusercontent.com/91381863/171549002-16c3593f-7c17-4149-8389-987c8d6d44fd.jpg)

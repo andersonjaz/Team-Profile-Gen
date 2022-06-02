@@ -18,7 +18,7 @@ node index.js
 [[Watch Demo Video Here](https://drive.google.com/file/d/1IZt8qPR8dIyHacoUuBui54V2Yx4lBuE2/preview)]
 
 ### Live Website
-[[Click Here To See Website] (https://andersonjaz.github.io/Team-Profile-Gen/)]
+[[Click Here To See Website](https://andersonjaz.github.io/Team-Profile-Gen/)]
 
 ### Built With
 
